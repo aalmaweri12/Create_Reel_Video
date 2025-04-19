@@ -1,0 +1,26 @@
+# Core dependencies
+moviepy>=1.0.3
+numpy>=1.19.0
+Pillow>=8.0.0
+
+# Text-to-speech engines
+gTTS>=2.2.4  # Google Text-to-Speech (free)
+# google-cloud-texttospeech>=2.11.0  # Google Cloud TTS (paid, uncomment if needed)
+# pyttsx3>=2.90  # Offline TTS (uncomment if needed)
+
+# Audio processing
+pydub>=0.25.1
+
+# Command-line interface
+argparse>=1.4.0
+
+# For development and testing (optional)
+# pytest>=6.0.0
+# black>=21.5b2
+# flake8>=3.9.0
+# tox>=3.24.0
+
+# Note: FFmpeg must be installed separately on your system
+# macOS: brew install ffmpeg
+# Ubuntu: apt-get install ffmpeg
+# Windows: download from https://ffmpeg.org/download.html
