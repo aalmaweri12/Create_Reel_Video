@@ -14,30 +14,12 @@ A powerful tool for creating videos from text input with text-to-speech narratio
 
 ## Installation
 
-### From PyPI (Recommended)
-
-```bash
-pip install text2video
-```
-
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/text-to-video-tool.git
-cd text-to-video-tool
-pip install -e .
-```
-
-For Google Cloud TTS support:
-
-```bash
-pip install "text2video[google]"
-```
-
-For offline TTS support:
-
-```bash
-pip install "text2video[offline]"
+git clone https://github.com/aalmaweri12/Create_Reel_Video.git
+cd Create_Reel_Video
+pip install -e requirements.txt
 ```
 
 ## Requirements
